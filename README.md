@@ -77,7 +77,7 @@ Only use outputs that have passed your organisation's output checking (for examp
 
 ## Acknowledgements
 
-This work was done during the LIDA Data Scientist Development Programme at the University of Leeds. Supervised by Dr Lesley Smith, with Dr David Cairns and Dr Chris Parish. Thanks to the Myeloma XI trial team and the Leeds Institute of Clinical Trials Research.
+This work was done during the LIDA Data Scientist Development Programme at the University of Leeds. Thanks to the Myeloma XI trial team and the Leeds Institute of Clinical Trials Research.
 
 ## Author
 
