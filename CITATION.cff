@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Biomarker Trajectory Dashboard"
+abstract: "Reusable R code for latent class growth analysis of longitudinal biomarkers, landmark survival analysis and an interactive Shiny dashboard."
+authors:
+  - family-names: Ogungbemi
+    given-names: Damilola
+license: MIT
+date-released: 2026-11-11
+keywords: [latent class growth analysis, biomarkers, survival analysis, shiny, clinical trials, R]

@@ -1,0 +1,20 @@
+# Never commit data or study outputs
+dashboard/dashboard_data/
+dashboard/www/
+*.rds
+*.RData
+*.rda
+*.csv
+*.xlsx
+*.sas7bdat
+*.dta
+
+# R and RStudio
+.Rhistory
+.Rproj.user/
+.RDataTmp
+rsconnect/
+
+# System
+.DS_Store
+Thumbs.db
